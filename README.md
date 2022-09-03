@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm always curious to learn about you.
 - 📫 How to reach me: 
-     LinkedIn - @praveenmaurya09
-     WhatsApp - Praveen Maurya
+     [LinkedIn - @praveenmaurya09](https://www.linkedin.com/in/praveenmaurya09/)<br>
+     [WhatsApp - Praveen Maurya](https://api.whatsapp.com/send?phone=918128830405&text=Hi%20there%20%F0%9F%91%8B)
 
 
