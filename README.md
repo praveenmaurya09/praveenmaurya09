@@ -11,7 +11,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Git or any other platform.
 - 🤔 I’m looking for help with Flutter Documentation.
 - 💬 Ask me about Flutter or any Tech related stuff.
-- 📫 How to reach me: https://www.linkedin.com/in/praveenmaurya09/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm always curious to learn about you.
+- 📫 How to reach me: 
+     LinkedIn - @praveenmaurya09
+     WhatsApp - Praveen Maurya
+
 
