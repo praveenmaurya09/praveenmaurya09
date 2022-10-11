@@ -17,7 +17,7 @@ Here are some ideas to get you started:
      [LinkedIn - @praveenmaurya09](https://www.linkedin.com/in/praveenmaurya09/)<br>
      [WhatsApp - Praveen Maurya](https://api.whatsapp.com/send?phone=918128830405&text=Hi%20there%20%F0%9F%91%8B)
 
--->
+
 <h1 align="center">Hi 👋, I'm Praveen Maurya</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
@@ -55,3 +55,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenmaurya09&show_icons=true&locale=en" alt="praveenmaurya09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenmaurya09&" alt="praveenmaurya09" /></p>
+
+
+-->
