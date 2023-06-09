@@ -27,8 +27,9 @@ Hello, my name is Praveen Maurya. A flutter developer and freelancer from the In
 **Languages and Tools:** 
 
 ![Dart](https://img.shields.io/badge/-Dart-black?logo=dart&style=social)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter%20Framework-black?logo=flutter&style=social)&nbsp;&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wrodpress-black?logo=wordpress&style=social)&nbsp;&nbsp;
