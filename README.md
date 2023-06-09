@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-Hello, my name is Praveen Maurya. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+Hello, my name is Praveen Maurya. A flutter developer and freelancer from the India. I have diverse experience in terms of development and administrative roles, and I am always up for challenges. Skilled in android & web development, virtual assistant, tech support, administrative roles. I enjoy learning new skills, I am very keen on details, I'm learning flutter and android development. Besides programming, I have an immense interest in music.
 
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
+- 🔭 I’m currently learning flutter at the Udemy.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
-- 😄 Pronouns: Programmer/She/Her/Hers
+- 📫 How to reach me: mauryapraveenji@gmail.com
 - ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
+- 📝 [Resume](https://docs.google.com/document/d/14Ktzc68dckObIuWkH9RLbcnSk8kyswQxvYC6p8dDISI/edit?usp=sharing)
 
 **Languages and Tools:** 
 
