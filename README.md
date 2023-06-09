@@ -22,7 +22,7 @@ Hello, my name is Praveen Maurya. A flutter developer and freelancer from the In
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: mauryapraveenji@gmail.com
 - ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume](https://docs.google.com/document/d/14Ktzc68dckObIuWkH9RLbcnSk8kyswQxvYC6p8dDISI/edit?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1xAWtKXAAs9af9zsfEcwPkx6YQ7z52F0o/view?usp=sharing)
 
 **Languages and Tools:** 
 
