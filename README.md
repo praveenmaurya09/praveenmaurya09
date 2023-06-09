@@ -43,6 +43,6 @@ Hello, my name is Praveen Maurya. I am a full-stack software developer with thre
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 ![Praveen's Github Stats](https://github-readme-stats.vercel.app/api?username=TheUltimate-Maurya&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheUltimate-Maurya&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheUltimate-Maurya.TheUltimate-Maurya)
