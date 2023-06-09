@@ -21,7 +21,7 @@ Hello, my name is Praveen Maurya. A flutter developer and freelancer from the In
 - 🔭 I’m currently learning flutter at the Udemy.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: mauryapraveenji@gmail.com
-- ⚡ LinkedIn: Checkout my [LinkedIn](linkedin.com/in/theultimate-maurya)
+- ⚡ LinkedIn: Checkout my [LinkedIn](https://www.linkedin.com/in/theultimate-maurya/)
 - 📝 [Resume](https://drive.google.com/file/d/1xAWtKXAAs9af9zsfEcwPkx6YQ7z52F0o/view?usp=sharing)
 
 **Languages and Tools:** 
