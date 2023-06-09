@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hello, my name is Praveen Maurya. A flutter developer and freelancer from the India. I have diverse experience in terms of development and administrative roles, and I am always up for challenges. Skilled in android & web development, virtual assistant, tech support, administrative roles. I enjoy learning new skills, I am very keen on details, I'm learning flutter and android development. Besides programming, I have an immense interest in music.
+Hello, my name is Praveen Maurya. A flutter developer and freelancer from the India. I have diverse experience in terms of development and administrative roles, and I am always up for challenges. Skilled in android & web development, virtual assistant, tech support and administrative roles. I enjoy learning new skills, I am very keen on details, I'm learning flutter and android development. Besides programming, I have an immense interest in music.
 
 - 🔭 I’m currently learning flutter at the Udemy.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
@@ -26,8 +26,9 @@ Hello, my name is Praveen Maurya. A flutter developer and freelancer from the In
 
 **Languages and Tools:** 
 
+![Dart](https://img.shields.io/badge/-Dart-black?logo=dart&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter%20Framework-black?logo=flutter&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
