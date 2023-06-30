@@ -1,4 +1,5 @@
-### Hi there 👋, I am [Praveen](https://praveenmaurya.in)! 😁
+### नमस्ते 🙏
+I am [Praveen](https://praveenmaurya.in)! 😊
 
 <!--
 **TheUltimate-Maurya/TheUltimate-Maurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-A flutter developer and freelancer from the India. I have diverse experience in terms of development and administrative roles, and I am always up for challenges. Skilled in android & web development, virtual assistant, tech support and administrative roles. I enjoy learning new skills, I am very keen on details, I'm learning flutter and android development. Besides programming, I have an immense interest in music.
+A flutter developer and freelancer from the India. I have diverse experience in terms of development and administrative roles, and I am always up for challenges. Skilled in android & web development, virtual assistant, tech support and administrative roles. I enjoy learning new skills, I am very keen on details. Besides programming, I have an immense interest in music.
 
-- 🔭 I’m currently learning flutter at the Udemy.
+- 🔭 I’m currently learning and improving on flutter development.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: mauryapraveenji@gmail.com
 - ⚡ Checkout my: [LinkedIn](https://www.linkedin.com/in/theultimate-maurya/)
