@@ -22,7 +22,7 @@ A flutter developer and freelancer from the India. I have diverse experience in 
 - 🔭 I’m currently learning and improving on flutter development.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: mauryapraveenji@gmail.com
-- ⚡ Checkout my: [LinkedIn](https://www.linkedin.com/in/theultimate-maurya/)
+- ⚡ Checkout my: [LinkedIn](https://www.linkedin.com/in/praveenmaurya09/)
 <!--
 - 📝 [Resume](https://drive.google.com/file/d/1xAWtKXAAs9af9zsfEcwPkx6YQ7z52F0o/view?usp=sharing)
 -->
@@ -43,7 +43,7 @@ A flutter developer and freelancer from the India. I have diverse experience in 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-![Praveen's Github Stats](https://github-readme-stats.vercel.app/api?username=TheUltimate-Maurya&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheUltimate-Maurya&hide=TeX&layout=compact)
+![Praveen's Github Stats](https://github-readme-stats.vercel.app/api?username=praveenmaurya09&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenmaurya09&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheUltimate-Maurya.TheUltimate-Maurya)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=praveenmaurya09.praveenmaurya09)
