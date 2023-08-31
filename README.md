@@ -1,5 +1,5 @@
 ### नमस्ते 🙏
-I am ###[Praveen](https://praveenmaurya.in)!### 😊
+I am [Praveen Maurya](https://praveenmaurya.in)! 😊
 
 <!--
 **TheUltimate-Maurya/TheUltimate-Maurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
