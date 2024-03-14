@@ -22,7 +22,7 @@ A flutter fresher and freelancer from the India. I have diverse experience in te
 - 🔭 I’m currently learning and improving on flutter development.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: mauryapraveenji@gmail.com
-- ⚡ Checkout my: [LinkedIn](https://www.linkedin.com/in/praveenmaurya09/)
+
 <!--
 - 📝 [Resume](https://drive.google.com/file/d/1xAWtKXAAs9af9zsfEcwPkx6YQ7z52F0o/view?usp=sharing)
 -->
