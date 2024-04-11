@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-A jr. flutter developer and freelancer from the India. I have diverse experience in terms of web development and administrative roles, and I am always up for challenges. Skilled in virtual assistant, tech support and administrative roles. I enjoy learning new skills, I am very keen on details. Besides programming, I have an immense interest in music.
+A Junior flutter developer and freelancer from the India. I have diverse experience in terms of web development and administrative roles, and I am always up for challenges. Skilled in virtual assistant, tech support and administrative roles. I enjoy learning new skills, I am very keen on details. Besides programming, I have an immense interest in music.
 
 - 🔭 I’m currently learning and improving on flutter development.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
